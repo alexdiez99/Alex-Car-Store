@@ -1,0 +1,51 @@
+.administracionbbdd {
+    background-color: #ccc;
+}
+.menu-vertical {
+    width: 200px;
+    background-color: #19171A;
+    color: white;
+    padding: 10px;
+    flex: 1;
+}
+.menu-vertical ul {
+    list-style: none;
+    padding: 0;
+}
+.menu-vertical li {
+    margin: 0;
+    padding: 0;
+}
+.menu-vertical a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 10px;
+}
+
+.table-container {
+    margin-left: 220px;
+    color: black; 
+}
+.tablaproductosadmin {
+    width: 80%;
+    margin: 0 auto;
+    
+}
+.tablaproductosadmin th, .tablaproductosadmin td {
+    padding: 8px;
+    text-align: left;
+}
+.imagenproductosadmin {
+    width: 300px;
+    height: 150px;
+}
+.crearproducto {
+    background-color: #19171A;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: left;
+  }
